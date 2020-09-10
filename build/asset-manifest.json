@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-03-image-finder/static/css/main.e37f4117.chunk.css",
+    "main.js": "/goit-react-hw-03-image-finder/static/js/main.b24d9ad8.chunk.js",
+    "main.js.map": "/goit-react-hw-03-image-finder/static/js/main.b24d9ad8.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-03-image-finder/static/js/runtime-main.634f871b.js",
+    "runtime-main.js.map": "/goit-react-hw-03-image-finder/static/js/runtime-main.634f871b.js.map",
+    "static/css/2.3d72dcb8.chunk.css": "/goit-react-hw-03-image-finder/static/css/2.3d72dcb8.chunk.css",
+    "static/js/2.c973959b.chunk.js": "/goit-react-hw-03-image-finder/static/js/2.c973959b.chunk.js",
+    "static/js/2.c973959b.chunk.js.map": "/goit-react-hw-03-image-finder/static/js/2.c973959b.chunk.js.map",
+    "index.html": "/goit-react-hw-03-image-finder/index.html",
+    "precache-manifest.f268e8ae081ebd6161c6d0b93bcbb1cf.js": "/goit-react-hw-03-image-finder/precache-manifest.f268e8ae081ebd6161c6d0b93bcbb1cf.js",
+    "service-worker.js": "/goit-react-hw-03-image-finder/service-worker.js",
+    "static/css/2.3d72dcb8.chunk.css.map": "/goit-react-hw-03-image-finder/static/css/2.3d72dcb8.chunk.css.map",
+    "static/css/main.e37f4117.chunk.css.map": "/goit-react-hw-03-image-finder/static/css/main.e37f4117.chunk.css.map",
+    "static/js/2.c973959b.chunk.js.LICENSE.txt": "/goit-react-hw-03-image-finder/static/js/2.c973959b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.634f871b.js",
+    "static/css/2.3d72dcb8.chunk.css",
+    "static/js/2.c973959b.chunk.js",
+    "static/css/main.e37f4117.chunk.css",
+    "static/js/main.b24d9ad8.chunk.js"
+  ]
+}
